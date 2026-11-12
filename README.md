@@ -3,7 +3,7 @@
 Odin Project assignment for the Foundations Course. Project:Recipies.
 
 Goals:
--Familiarize/Refresh myself with HTML by making a basic recipie website
+- Familiarize/Refresh myself with HTML by making a basic recipie website
 
 - Find creative recipies I enjoy
 
